@@ -1,4 +1,4 @@
-/*patron Strategy */
+/*patron Strategy o estrategia que permite definir familia algoritmos, colocarlos en clases separadas y hacer sus objetos intercambiables*/
 
 import modelos.*;
 
